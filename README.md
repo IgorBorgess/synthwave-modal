@@ -31,8 +31,8 @@ Todo o projeto foi feito com uma boa componentização em mente e portanto, uma 
 
 # Mas como está o projeto? Segue algumas fotos abaixo!
 
-<img src="src/screenshots/one.JPG" width="1200px">
+<img src="src/screenshots/one.PNG" width="1200px">
 
-<img src="src/screenshots/two.JPG" width="1200px">
+<img src="src/screenshots/two.PNG" width="1200px">
 
-<img src="src/screenshots/three.JPG" width="1200px">
+<img src="src/screenshots/three.PNG" width="1200px">
