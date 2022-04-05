@@ -99,7 +99,7 @@ export default {
         background: #1DA1f2;
     }
 
-        .content-2:hover a{
+    .content-2:hover a{
         color: #1DA1F2;
     }
 
@@ -108,7 +108,7 @@ export default {
         background: #5865F2;
     }
 
-        .content-3:hover a{
+    .content-3:hover a{
         color: #5865F2;
     }
 
@@ -126,6 +126,8 @@ export default {
 
     .content a {
         margin: 22px 0;
+        padding: 0.25rem;
+        font-size: 50px;
         background: black;
         color: white;
         text-decoration: none;
