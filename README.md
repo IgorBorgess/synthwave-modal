@@ -36,5 +36,3 @@ Todo o projeto foi feito com uma boa componentização em mente e portanto, uma 
 <img src="src/screenshots/two.PNG" width="1200px">
 
 <img src="src/screenshots/three.PNG" width="1200px">
-
-<img src="src/screenshots/three.PNG" width="1200px">
